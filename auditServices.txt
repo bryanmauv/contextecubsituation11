@@ -1,0 +1,4 @@
+Date de lancement du script : 04/11/2023 09:15:20
+Le service DHCP est actuellement : Running
+Le service DNS est actuellement : Running
+Le service ADWS est actuellement : Running
