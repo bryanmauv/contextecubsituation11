@@ -1,0 +1,4 @@
+Audit DHCP effectué le : 04/11/2023 09:27:07
+Plage DHCP : client - Statut : Inactive
+Plage DHCP : Administrateur - Statut : Active
+Plage DHCP : visiteur - Statut : Active
