@@ -17,9 +17,14 @@ New-Item -ItemType File -Path "$scriptPath\auditAD.txt" -Force | Out-Null
 Add-Content -Path "$scriptPath\auditAD.txt" -Value "Date de lancement du script : $date"
 foreach ($user in $users) {
     $name = $user.Name
+    $name2 = "nom : $name"
     $username = $user.SamAccountName
+    $username2 = "nom d'utilisateur : $username"
     $email = $user.EmailAddress
+    $email2 = "adresse mail : $email"
     $description = $user.Description
-    $line = "$name - $username - $email - $description"
+    $description2 = "description du compte : $description"
+    $line = "$name2 | $username2 | $email2 | $description2"
     Add-Content -Path "$scriptPath\auditAD.txt" -Value $line
+    Add-Content -Path "$scriptPath\auditAD.txt" -Value "-------------------------------------------------------------------------------------------------------------------------------------"
 }

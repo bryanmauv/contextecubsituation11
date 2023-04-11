@@ -1,9 +1,17 @@
-Date de lancement du script : 2023-04-11 09:46:05
-Administrateur - Administrateur -  - 
-Invité - Invité -  - 
-krbtgt - krbtgt -  - 
-david balny - david.balny -  - 
-quentin demouliere - quentin.demouliere -  - 
-christèle ferreira - christèle.ferreira -  - 
-béatrice caramigeas - béatrice.caramigeas -  - 
-patricia delouche - patricia.delouche -  - 
+Date de lancement du script : 2023-04-11 09:53:28
+nom : Administrateur | nom d'utilisateur : Administrateur | adresse mail :  | description du compte : 
+-------------------------------------------------------------------------------------------------------------------------------------
+nom : Invité | nom d'utilisateur : Invité | adresse mail :  | description du compte : 
+-------------------------------------------------------------------------------------------------------------------------------------
+nom : krbtgt | nom d'utilisateur : krbtgt | adresse mail :  | description du compte : 
+-------------------------------------------------------------------------------------------------------------------------------------
+nom : david balny | nom d'utilisateur : david.balny | adresse mail :  | description du compte : 
+-------------------------------------------------------------------------------------------------------------------------------------
+nom : quentin demouliere | nom d'utilisateur : quentin.demouliere | adresse mail :  | description du compte : 
+-------------------------------------------------------------------------------------------------------------------------------------
+nom : christèle ferreira | nom d'utilisateur : christèle.ferreira | adresse mail :  | description du compte : 
+-------------------------------------------------------------------------------------------------------------------------------------
+nom : béatrice caramigeas | nom d'utilisateur : béatrice.caramigeas | adresse mail :  | description du compte : 
+-------------------------------------------------------------------------------------------------------------------------------------
+nom : patricia delouche | nom d'utilisateur : patricia.delouche | adresse mail :  | description du compte : 
+-------------------------------------------------------------------------------------------------------------------------------------
