@@ -1,4 +1,4 @@
-Date de lancement du script : 04/11/2023 09:15:20
+Date de lancement du script : 04/11/2023 10:18:34
 Le service DHCP est actuellement : Running
 Le service DNS est actuellement : Running
 Le service ADWS est actuellement : Running
