@@ -1,0 +1,11 @@
+Date de lancement du script : 2023-04-11 09:40:55
+@ - 192.168.6.2
+@ - 192.168.6.1
+DomainDnsZones - 192.168.6.2
+DomainDnsZones - 192.168.6.1
+ForestDnsZones - 192.168.6.2
+ForestDnsZones - 192.168.6.1
+serveur-test - 192.168.6.3
+serveurprimaire - 172.16.54.253
+ServeurSecondaire - 192.168.6.2
+WIN-TI7Q9HI54DH - 192.168.6.5
